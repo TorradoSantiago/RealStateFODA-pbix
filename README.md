@@ -1,20 +1,18 @@
 # RealStateFODA-pbix
 
-Proyecto de inteligencia comercial e inversion inmobiliaria con entregable principal en Power BI. El archivo `.pbix` no se puede pulir de forma confiable desde VS Code sin Power BI Desktop, asi que en esta ronda el foco estuvo en dejar una capa de documentacion mas profesional y una guia de rediseño.
+Proyecto de inteligencia comercial e inversion inmobiliaria con entregable principal en Power BI.
 
-## Archivos principales
+## Objetivo
 
-- `ProyectoFODAFinal.pbix`
-- `BDD_ProyectoFODA.xls`
-- `Documentacion tecnica_ Proyecto FODA.docx.pdf`
-- `Presentacion proyecto final.pptx`
+Presentar un caso de analisis inmobiliario con dashboard, base de datos y documentacion de soporte para lectura comercial.
 
-## Que queda documentado en este repo
+## Herramientas
 
-- Objetivo del caso.
-- Activos principales.
-- Recomendaciones concretas de rediseño visual y narrativo.
+- Power BI Desktop
+- Excel
+- Documentacion en PDF y PowerPoint
+- Markdown para guia de rediseno
 
-## Siguiente paso recomendado
+## Conclusion
 
-Abrir el `.pbix` en Power BI Desktop y aplicar las mejoras del archivo `docs/dashboard-redesign.md`.
+El repo ya documenta mejor el caso y deja claro que el siguiente salto de calidad visual debe hacerse dentro de Power BI Desktop.
