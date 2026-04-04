@@ -1,22 +1,22 @@
 # Dashboard redesign
 
-## Objetivo visual
+## Visual objective
 
-Convertir el dashboard en una pieza ejecutiva, menos academica y mas util para leer oportunidades de negocio.
+Turn the dashboard into a more executive, less academic, and more decision-oriented business asset.
 
-## Recomendaciones
+## Recommendations
 
-- Crear una portada con tres mensajes: oportunidad, riesgo y recomendacion.
-- Unificar paleta en tonos neutros con un solo color de enfasis.
-- Reducir la cantidad de visuales por pagina y dejar mas aire entre bloques.
-- Priorizar KPIs de mercado, mapa, comparativos y conclusion.
-- Usar titulos que respondan preguntas, no solo nombres de graficos.
-- Cerrar con una pagina de implicancias para inversion o decision comercial.
+- Create an opening page built around three messages: opportunity, risk, and recommendation.
+- Unify the palette around neutral tones with one emphasis color.
+- Reduce the number of visuals per page and leave more breathing room between blocks.
+- Prioritize market KPIs, map views, comparisons, and a final recommendation.
+- Use titles that answer business questions instead of only naming charts.
+- Close with a page on investment or commercial implications.
 
-## Paginas sugeridas
+## Suggested pages
 
-1. Resumen ejecutivo.
-2. Oferta y demanda.
-3. Comparativo territorial.
-4. Riesgos y debilidades.
-5. Recomendacion final.
+1. Executive summary.
+2. Supply and demand.
+3. Territorial comparison.
+4. Risks and weaknesses.
+5. Final recommendation.
